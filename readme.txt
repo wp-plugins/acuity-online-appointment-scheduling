@@ -8,7 +8,7 @@ Embed online appointment scheduling from Acuity Scheduling directly into your si
 
 == Description ==
 
-Acuity Scheduling is online appointment scheduling software. This plugin allows users with accounts on Acuity Scheduling
+Acuity Scheduling is online appointment scheduling software. This plugin allows users with paid accounts on Acuity Scheduling
 (http://AcuityScheduling.com) to embed scheduling directly into their site. Use the [scheduling] short tag on any page
 with the options described in the documentation to embed your scheduling site.
 
