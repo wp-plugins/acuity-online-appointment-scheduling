@@ -30,13 +30,16 @@ This creates the [scheduling] tag to embed Acuity Scheduling into the page. Usag
 
 Options:
 site: your scheduling site (required)
-width: defaults to 775px (optional)
+width: defaults to 100% (optional)
 height: defaults to 600px (optional)
 border: defaults to 0 (optional)
 
 Support is available at http://AcuityScheduling.com/help.php
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated default width from 775px to 100%
 
 = 1.0.0 =
 * Initial release
