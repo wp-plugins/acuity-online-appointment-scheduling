@@ -1,7 +1,7 @@
 === Acuity Scheduling ===
 Tags: Acuity Scheduling, scheduling, booking
 Requires at least: 2.5
-Tested up to: 3.2.1
+Tested up to: 3.9
 Stable tag: trunk
 
 Embed online appointment scheduling from Acuity Scheduling directly into your site.

@@ -20,6 +20,6 @@ function embed_acuityscheduling( $atts ) {
 		'border' => 0
 	), $atts ) );
 
-	return "<iframe src=\"$site\" width=\"$width\" height=\"$height\" frameBorder=\"$border\"></iframe>";
+	return "<iframe src=\"$site\" width=\"$width\" height=\"$height\" frameBorder=\"$border\"></iframe><script src=\"https://acuityscheduling.com/js/embed.js\" type=\"text/javascript\"></script>";
 }
 add_shortcode( 'scheduling', 'embed_acuityscheduling' );
