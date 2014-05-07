@@ -34,7 +34,7 @@ width: defaults to 100% (optional)
 height: defaults to 600px (optional)
 border: defaults to 0 (optional)
 
-We recommend adding the tag in text mode instad of visual to prevent other formatting of the URL being
+We recommend adding the tag in text mode instead of visual to prevent other formatting of the URL being
 inadvertently added. Support is available at http://AcuityScheduling.com/help.php
 
 == Changelog ==
