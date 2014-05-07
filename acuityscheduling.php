@@ -3,7 +3,7 @@
 Plugin Name: Acuity Online Appointment Scheduling
 Plugin URI: http://AcuityScheduling.com
 Description: Embed <a href="https://acuityscheduling.com">Acuity Online Appointment Scheduling</a> into your site.  The tag to embed is: <code>[scheduling site="https://mysite.acuityscheduling.com"]</code>
-Version: 1.0.1
+Version: 1.1.0
 Author: Acuity Scheduling
 Author URI: http://AcuityScheduling.com
 */
@@ -20,6 +20,6 @@ function embed_acuityscheduling( $atts ) {
 		'border' => 0
 	), $atts ) );
 
-	return "<iframe src=\"$site\" width=\"$width\" height=\"$height\" frameBorder=\"$border\"></iframe><script src=\"https://acuityscheduling.com/js/embed.js\" type=\"text/javascript\"></script>";
+	return "<iframe src=\"$site\" width=\"$width\" height=\"$height\" frameBorder=\"$border\"></iframe><script src=\"https://d3gxy7nm8y4yjr.cloudfront.net/js/embed.js\" type=\"text/javascript\"></script>";
 }
 add_shortcode( 'scheduling', 'embed_acuityscheduling' );

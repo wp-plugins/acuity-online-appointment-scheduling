@@ -9,7 +9,7 @@ Embed online appointment scheduling from Acuity Scheduling directly into your si
 == Description ==
 
 Acuity Scheduling is online appointment scheduling software. This plugin allows users with paid accounts on Acuity Scheduling
-(http://AcuityScheduling.com) to embed scheduling directly into their site. Use the [scheduling] short tag on any page
+(https://AcuityScheduling.com) to embed scheduling directly into their site. Use the [scheduling] short tag on any page
 with the options described in the documentation to embed your scheduling site.
 
 == Installation ==
@@ -26,7 +26,7 @@ For more help on installing a Wordpress plugin see http://codex.wordpress.org/Ma
 == Documentation ==
 
 This creates the [scheduling] tag to embed Acuity Scheduling into the page. Usage:
-[scheduling site="http://mysite.acuityscheduling.com"]
+[scheduling site="https://mysite.acuityscheduling.com"]
 
 Options:
 site: your scheduling site (required)
@@ -34,9 +34,13 @@ width: defaults to 100% (optional)
 height: defaults to 600px (optional)
 border: defaults to 0 (optional)
 
-Support is available at http://AcuityScheduling.com/help.php
+We recommend adding the tag in text mode instad of visual to prevent other formatting of the URL being
+inadvertently added. Support is available at http://AcuityScheduling.com/help.php
 
 == Changelog ==
+
+= 1.1.0 =
+* Adding companion Javascript for more seamless embedding into your website with easier scrolling and seamless size adjustment in modern browsers.
 
 = 1.0.1 =
 * Updated default width from 775px to 100%
