@@ -1,5 +1,5 @@
 === Acuity Scheduling ===
-Tags: Acuity Scheduling, scheduling, booking
+Tags: Acuity Scheduling, scheduling, booking, reservation plugin, booking plugin, booking system, booking calendar, appointment, online scheduling
 Requires at least: 2.5
 Tested up to: 3.9
 Stable tag: trunk
