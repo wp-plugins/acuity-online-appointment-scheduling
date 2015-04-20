@@ -1,7 +1,7 @@
 === Acuity Scheduling ===
 Tags: Acuity Scheduling, scheduling, booking, reservation plugin, booking plugin, booking system, booking calendar, appointment, online scheduling
 Requires at least: 2.5
-Tested up to: 4.1 
+Tested up to: 4.2 
 Stable tag: trunk
 
 Embed online appointment scheduling from Acuity Scheduling directly into your site.
